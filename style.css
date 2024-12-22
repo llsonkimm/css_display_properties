@@ -1,0 +1,36 @@
+.display, a{
+    display: block;
+    background: #778a0e;
+}
+
+.display, span{
+    display: block;
+    background: #0e8a46;
+}
+
+p.display2{
+    display: inline;
+    background: #13c563;
+    padding: 10px;
+}
+
+ul li{
+    display: inline;
+    margin: 10px;
+}
+
+div{
+    display: inline-block;
+    background: #0e8a46;
+    padding: 10px;
+}
+
+span.display3{
+    display: inline-block;
+    background: #137acf;
+    padding: 10px;
+}
+
+h1.display4{
+    display: none;
+}
